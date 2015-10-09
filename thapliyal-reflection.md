@@ -1,0 +1,11 @@
+- *What git concepts were you struggling with prior to the GPS session?*
+- *What concepts were clarified during the GPS?*
+- *What questions did you ask your pair and the guide?*
+- *What still confuses you about git?*
+- *How was your first experience of pairing in a GPS?*
+
+- Due to all the practice we've been getting with git prior to the session I feel pretty confident about the basic workflow of git.
+- I now have a clearer understanding of why branching is necessary. We learned that the master version is usually what is in live production, so it's even more important to keep edits separate from the master before merging.
+- I asked the guide how it's possible to access previous commits in a project; she mentioned some more advanced topics related to git commits that I may encounter in the future.
+- The merge conflict part of the challenge went by fairly quickly so hopefully when/if I encounter a merging issue I will know what to do.
+- The first GPS session went great; it was assuring to have a DBC alumnus present to answer any questions and guide us through the challenge.
